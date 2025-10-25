@@ -43,3 +43,7 @@ HTML/CSS: For layout, styling, and responsive design
 JavaScript (ES6+): For dynamic functionality, state management, and event handling
 
 This project demonstrates practical implementation of real-time applications and showcases the combination of modern front-end and back-end technologies to create a functional, responsive, and interactive chat interface. It can serve as a starting point for more complex messaging systems and real-time collaborative applications.
+
+*OUTPUT*:
+
+<img width="1895" height="1053" alt="Image" src="https://github.com/user-attachments/assets/ff6be96a-f62e-45c6-b3bb-88d0d1264290" />
