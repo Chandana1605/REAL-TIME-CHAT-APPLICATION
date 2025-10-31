@@ -10,7 +10,7 @@
 
 *DURATION*:4 WEEKS
 
-*MENTOR*:NEELA SANTHOSH
+*MENTOR*:NEELA SANTHOSH KUMAR
 
 *PROJECT DESCRIPTION*:This project is a Real-Time Chat Application built using modern web technologies to enable instant messaging between users. The application demonstrates the integration of WebSockets for real-time communication and React.js for building a responsive front-end interface. The core functionality allows multiple users to send and receive messages simultaneously, with each message instantly appearing on all connected clients. Additionally, the application preserves message history even after refreshing the browser, providing a persistent and user-friendly chat experience.
 
